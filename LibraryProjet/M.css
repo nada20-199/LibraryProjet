@@ -1,0 +1,336 @@
+table {
+  color:black;
+  float:right;
+  width:90%;
+  margin: 20px 40px;
+  font-size:100%;
+}
+h1{ 
+	color:white;
+	font-weight:bold;
+	text-decoration:underline;
+    font-size: calc(10px + 12vh);
+    line-height: calc(10px + 10vh);
+/*   text-shadow: 0 0 5px #f562ff, 0 0 15px #f562ff, 0 0 25px #f562ff,
+    0 0 20px #f562ff, 0 0 30px #890092, 0 0 80px #890092, 0 0 80px #890092;
+   color: #fccaff; */
+   text-shadow: 0 0 5px #ffa500, 0 0 15px #ffa500, 0 0 20px #ffa500, 0 0 40px #ffa500, 0 0 60px #ff0000, 0 0 10px #ff8d00, 0 0 98px #ff0000;
+    color: #fff6a9;
+   font-family: "Sacramento", cursive;
+   text-align: center;
+  animation: blink 12s infinite;
+  -webkit-animation: blink 12s infinite;
+}
+
+
+td{
+	font-size:200;
+}
+body{
+	background-image:url(z.png);
+	background-size:100%;
+	background-position:center-right;
+	background-repeat:repeat-y;
+	background-attachment:fixed;
+	
+}
+#N{
+	font-weight:bold;
+	font-size:150%;
+	color:white;
+	
+}
+#M{
+	font-weight:bold;
+	font-size:150%;
+	color:white;
+}
+#z{
+	font-weight:bold;
+	font-size:150%;
+	color:black;
+	background-color:peachPuff;
+}
+#x{
+	font-weight:bold;
+	font-size:150%;
+	color:black;
+	background-color:peachPuff;
+}
+#i{
+	font-weight:bold;
+	font-size:150%;
+	color:black;
+	background-color:peachPuff;
+}
+#w{
+	font-weight:bold;
+	font-size:150%;
+	color:black;
+	background-color:peachPuff;
+}
+#s{
+	font-weight:bold;
+	font-size:150%;
+	color:black;
+	background-color:peachPuff;
+}
+#u{
+	font-weight:bold;
+	font-size:150%;
+    color:black;
+	background-color:peachPuff;
+	}
+#y{
+	font-weight:bold;
+	font-size:150%;
+	color:black;
+	background-color:peachPuff;
+}
+#nom{
+	font-weight:bold;
+	font-size:150%;
+	color:white;
+}
+#pren{
+	font-weight:bold;
+	font-size:150%;
+	color:white;
+}
+#add{
+	font-weight:bold;
+	font-size:150%;
+	color:white;
+}
+#ville{
+	font-weight:bold;
+	font-size:150%;
+	color:white;
+}
+#code{
+     font-weight:bold;
+	font-size:150%;
+	color:white;
+}
+
+select{
+  font: 1em sans-serif;
+  width: 300px;
+  box-sizing: border-box;
+  border: 1px solid #999;
+}
+#e{
+	font-weight:bold;
+    font-size:150%;}
+#aff{
+	
+	font-weight:bold;
+	font-size:150%;
+	color:wheat;
+	
+}
+#chage{
+	
+	font-weight:bold;
+	font-size:150%;
+	color:wheat;
+	
+}
+#hana{
+	
+	font-weight:bold;
+	font-size:150%;
+	color:wheat;
+	
+}
+#mon{
+	
+	font-weight:bold;
+	font-size:150%;
+	color:wheat;
+	
+}
+#tana{
+	
+	font-weight:bold;
+	font-size:150%;
+	color:wheat;
+}
+#n{
+	font-weight:bold;
+}
+#p{
+     font-weight:bold;}
+#j{
+	font-weight:bold;}
+}
+#t{
+	font-weight:bold;
+}
+#a{
+	font-weight:bold;
+}
+#c{
+	font-weight:bold;
+}
+#NL{
+	font-weight:bold;
+	font-size:150%;
+	color:black;
+	background-color:wheat;
+}
+#PL{
+	font-weight:bold;
+	font-size:150%;
+	color:black;
+	background-color:wheat;
+}
+#T{
+	font-weight:bold;
+	font-size:150%;
+	color:black;
+	background-color:wheat;
+}
+#Ca{
+	font-weight:bold;
+	font-size:150%;
+	color:black;
+	background-color:wheat;
+}
+#Nu{
+	font-weight:bold;
+	font-size:150%;
+	color:black;
+	background-color:wheat;
+}
+
+table#t{
+	border: 2px solid peachPuff;
+}
+
+
+h2{
+	color:black;
+	font-family: "Times New Roman";
+	text-align:center;
+	background-color:Burlywood;
+    
+}
+
+caption{
+	text-align:center;
+	font-size:170%;
+	font-weight:bold;
+	color:Sienna;
+	background-color:peachPuff;
+}
+a:hover{
+	color:INDIANRED;
+}
+#NOMLE{
+	font-weight:bold;
+	font-size:150%;
+	color:wheat;
+}
+#PRENO{
+	font-weight:bold;
+	font-size:150%;
+	color:wheat;
+}
+#TIT{
+	font-weight:bold;
+	font-size:150%;
+	color:wheat;
+}
+#CAT{
+	font-weight:bold;
+	font-size:150%;
+	color:wheat;
+}
+#NUM{
+	font-weight:bold;
+	font-size:150%;
+	color:wheat;
+}
+table#c{
+	color:black;
+  float:right;
+  width:75%;
+  font-size:60%;
+  margin: 20px 40px;
+}
+
+#DRT{	
+    background-color:peachPuff;
+	font-family: Tahoma,Geneva,sans-serif;
+	padding: 40px;
+	width: 400px;
+	margin: auto;
+	margin-top: 30px;
+	height: 430px;
+	margin-left: 460px;
+
+	}
+
+
+ #COL{
+	 font-weight:bold;
+	font-size:150%;
+	color:black;
+	background-color:peachPuff;
+ }
+ #NOL{
+	 font-weight:bold;
+	font-size:150%;
+	color:black;
+	background-color:peachPuff;
+ }
+ #PRL{
+	 font-weight:bold;
+	font-size:150%;
+	color:black;
+	background-color:peachPuff;
+ }
+ #TR{
+	 font-weight:bold;
+	font-size:150%;
+	color:black;
+	background-color:peachPuff;
+ }
+ #CATR{
+	 font-weight:bold;
+	font-size:150%;
+	color:black;
+	background-color:peachPuff;
+ }
+ #ISBN{
+	 font-weight:bold;
+	font-size:150%;
+	color:black;
+	background-color:peachPuff;
+ }
+ #PO{
+	 font-weight:bold;
+	font-size:70%;
+ }
+ #KO{
+	 font-weight:bold;
+	font-size:70%;
+ }
+ #HO{
+	 font-weight:bold;
+	font-size:70%;
+ }
+ #NO{
+	 font-weight:bold;
+	font-size:70%;
+ }
+ #LO{
+	 font-weight:bold;
+	font-size:70%;
+ }
+ #RO{
+	 font-weight:bold;
+	font-size:70%;
+ }
+ 
